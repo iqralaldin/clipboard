@@ -1,0 +1,2 @@
+# clipboard
+clipboard (copy,paste)
